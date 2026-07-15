@@ -1,6 +1,6 @@
  
 <h1 align="center">Hi 👋, I'm Muhammad Moeed Asif</h1>
-<h2 align="center"> 🎓 BS Computer Science – FAST NUCES | 1+ Years as an AI Engineer </h2>
+<h2 align="center"> 🎓 BS Computer Science – FAST NUCES | 2+ Years as an AI Engineer </h2>
 <h3 align="center">AI Engineer experienced in developing AI/ML models and Applied AI Systems. I worked in domains like healthcare, industrial automation and exploring more. Proficient in Python, TensorFlow, PyTorch, and generative AI technologies including LLMs,Agentic AI & CV. Proven track record in building scalable AI systems, voice assistants, and automated solutions. Experience with cloud platforms (AWS, GCP) and MLOps practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moeed08&label=Profile%20views&color=0e75b6&style=flat" alt="moeed08" /> </p>
