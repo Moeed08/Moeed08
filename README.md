@@ -1,13 +1,13 @@
  
 <h1 align="center">Hi 👋, I'm Muhammad Moeed Asif</h1>
-<h2 align="center"> 🎓 BS Computer Science – FAST NUCES | 💡 Jr. AI Engineer at MTBC CareCloud </h2>
-<h3 align="center">AI Engineer with 1+ years of experience developing machine learning models and AI solutions for healthcare applications. Proficient in Python, TensorFlow, PyTorch, and generative AI technologies including LLMs and computer vision. Proven track record in building scalable AI systems, voice assistants, and automated solutions. Experience with cloud platforms (AWS, GCP) and MLOps practices.</h3>
+<h2 align="center"> 🎓 BS Computer Science – FAST NUCES | 1+ Years as an AI Engineer </h2>
+<h3 align="center">AI Engineer experienced in developing AI/ML models and Applied AI Systems. I worked in domains like healthcare, industrial automation and exploring more. Proficient in Python, TensorFlow, PyTorch, and generative AI technologies including LLMs,Agentic AI & CV. Proven track record in building scalable AI systems, voice assistants, and automated solutions. Experience with cloud platforms (AWS, GCP) and MLOps practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moeed08&label=Profile%20views&color=0e75b6&style=flat" alt="moeed08" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moeed08" alt="moeed08" /></a> </p>
 
-- 🔭 I’m currently working on **Agentic AI, LLMs, Voice AI, RAG Systems and Generative AI**
+- 🔭 I’m currently working on **Agentic AI, LLMs, RAG Systems and Computer Vision**
 
 - 🌱 I’m currently learning **VoiceAI Assistants**
 
