@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Moeed%20Asif&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%7C%20Agentic%20AI%20%7C%20Computer%20Vision&descAlignY=58&descSize=18&animation=fadeIn" alt="Muhammad Moeed Asif banner" />
+  <img src="assets/banner.svg" alt="Muhammad Moeed Asif - AI Engineer" width="100%" />
 </div>
 
 <!-- Animated tagline -->
@@ -16,6 +16,7 @@
   <a href="https://www.linkedin.com/in/moeedasif38"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:asifmoeed2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Moeed08"><img src="https://img.shields.io/github/followers/Moeed08?label=Follow&style=for-the-badge&logo=github&color=24292e" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Moeed08&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </div>
 
 ---
@@ -76,6 +77,22 @@ I design and build AI/ML models and applied AI systems across domains such as **
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Moeed08&show_icons=true&theme=radical&hide_border=true" alt="Moeed's GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moeed08&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moeed08&theme=radical&hide_border=true" alt="GitHub streak" />
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moeed08&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Moeed08&theme=radical&no-frame=true&row=1&column=7" alt="GitHub trophies" />
 </div>
 
 ---
